@@ -122,7 +122,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 493448, guid: 475b98b937c3a0644a87f8212f331a8e, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 114648, guid: 475b98b937c3a0644a87f8212f331a8e, type: 2}
       propertyPath: m_Name
@@ -301,6 +301,10 @@ Prefab:
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 1708139805}
+    - target: {fileID: 6118398, guid: 2979e5f76cb4dfc42bbc8e0fc34d9add, type: 2}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2979e5f76cb4dfc42bbc8e0fc34d9add, type: 2}
   m_IsPrefabParent: 0
