@@ -26,8 +26,6 @@ public class Player : MonoBehaviour {
         Vector2 movement = new Vector2(0, movement_horizontal);
 
         rb2d.MovePosition(rb2d.position + (movement * speed));
-
-        //testUpdateScore();
     }
 
     void UpdateScoreText()
